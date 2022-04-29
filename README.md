@@ -6,7 +6,7 @@ My portfolio needs a focus! I'm going to create a card which will fit on a mobil
 
 🛵 Wrote the code in HTML | CSS | Javascript
 
-🛵 Added font family: Orbitron (from google fonts) color: Bronze or #cdf32, which works with the aqua I've chosen for the portfolio color
+🛵 Added font family: Orbitron (from google fonts) color: Bronze or #cd7f32, which works with the aqua I've chosen for the portfolio color
 
 🛵 Pushed to github
 
